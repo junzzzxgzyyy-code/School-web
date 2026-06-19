@@ -1,0 +1,63 @@
+Buatkan sebuah website sekolah modern bernama "Sandai School Hub" dengan desain minimalis, elegan, dan tidak membosankan, menggunakan kombinasi warna yang clean (putih, abu-abu muda, dengan aksen biru atau ungu modern). Gunakan HTML, CSS, dan JavaScript (boleh pakai framework ringan seperti Tailwind atau Bootstrap jika perlu, tapi tetap jaga performa ringan).
+🔹 Struktur Website:
+Navbar (Sticky & Responsive)
+Logo teks: "Sandai School Hub"
+Menu:
+Home
+Tentang
+Visi & Misi
+Galeri
+Kontak
+Tambahkan efek hover smooth dan animasi sederhana
+Hero Section (Landing Page)
+Judul besar: Sandai School Hub
+Subjudul / slogan: "Primadona"
+Tambahkan deskripsi singkat sekolah (1–2 kalimat yang elegan)
+Background bisa pakai gradient atau image blur
+Tombol CTA: "Jelajahi Sekolah"
+Tentang Sekolah
+Penjelasan singkat tentang sekolah
+Layout dua kolom (teks + gambar)
+Tambahkan icon kecil biar gak kaku
+Visi & Misi
+Visi ditampilkan dalam bentuk highlight box
+Misi dalam bentuk list modern (card/grid)
+Gunakan animasi fade-in saat scroll
+Galeri
+Grid responsive untuk menampilkan foto
+Foto akan diambil dari folder yang disediakan (user akan upload)
+Tambahkan efek hover (zoom / overlay)
+Optional: Lightbox saat gambar diklik
+Section Keunggulan Sekolah
+3–4 card berisi kelebihan sekolah
+Contoh: Fasilitas lengkap, Guru profesional, Lingkungan nyaman, dll
+Gunakan icon modern (Font Awesome atau sejenisnya)
+Kontak
+Form sederhana:
+Nama
+Email
+Pesan
+Tambahkan validasi basic pakai JavaScript
+Sertakan info kontak (alamat, email, telp)
+Footer
+Nama sekolah
+Copyright
+Sosial media icon
+🔹 Fitur Tambahan:
+Fully responsive (mobile-friendly)
+Animasi ringan (scroll reveal / fade)
+Loading cepat (hindari asset berat)
+Struktur code rapi & mudah diedit
+Gunakan semantic HTML
+🔹 Style & Feel:
+Modern school website (bukan yang kaku kayak web tahun 2005)
+Minimalis tapi tetap “hidup”
+Typography clean (pakai Google Fonts seperti Poppins atau Inter)
+Spacing rapi, jangan terlalu padat
+🔹 Output:
+Pisahkan file:
+index.html
+style.css
+script.js
+Sertakan komentar di kode supaya mudah dipahami
+Pastikan semua fitur berjalan tanpa error
